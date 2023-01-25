@@ -1,0 +1,171 @@
+body{
+    margin:0%;
+    box-sizing:border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    
+    
+
+}
+.container{
+    height:100vh;
+    overflow: hidden;
+    width:100vw;
+    position: relative;
+    background-color: rgb(129, 208, 208);
+}
+.my-details{
+    position: relative;
+    color:rgb(0, 85, 154);
+    text-align: center;
+    top:260px;
+    z-index:11;
+}
+.sun{
+    height:400px;
+    position: absolute;
+    bottom:-200px;
+    right:455px;
+    z-index: 3;
+
+    
+    
+}
+.mountain{
+    position:absolute;
+    bottom:0px;
+    z-index:10;
+}
+.mountain.one{
+    position:absolute;
+    height:500px;
+    bottom:-10px;
+    left:-120px;
+}
+.mountain.two{
+    position:absolute;
+    height:500px;
+    bottom:-10px;
+    right:-100px;
+    z-index:9;
+}
+
+.snow-flake{
+    position:absolute;
+    height:20px;
+    z-index:11;
+    
+}
+.snow-flake.one{
+    top:80px;
+    right:600px;
+
+}
+.snow-flake.two{
+    top:40px;
+    left:200px;
+
+}
+.snow-flake.three{
+    bottom:300px;
+    right:150px;
+
+}
+.snow-flake.four{
+    top:40px;
+    right:450px;
+
+}.snow-flake.five{
+    bottom:500px;
+    left:300px;
+
+}
+.snow-flake.six{
+    top:250px;
+    right:600px;
+
+}
+
+.snow-flake.seven{
+    top:30px;
+    right:200px;
+
+}
+v
+.snow-flake.eight{
+    top:200px;
+    left:200px;
+
+}
+.snow-flake.nine{
+    top:320px;
+    left:500px;
+
+}
+.snow-flake.ten{
+    top:250px;
+    right:300px;
+
+}
+.snow-flake.eleven{
+    top:330px;
+    right:400px;
+
+}
+
+.snow-flake.twelve{
+    top:220px;
+    right:120px;
+
+}
+
+.snow-flake.thirteen{
+    top:150px;
+    right:320px;
+
+}
+
+.snow-flake.fourteen{
+    top:230px;
+    right:450px;
+
+}
+.snow-flake.fifteen{
+    top:120px;
+    left:450px;
+
+}
+
+.snow-flake.sixteen{
+    top:30px;
+    right:800px;
+
+}
+
+.snow-flake.seventeen{
+    top:280px;
+    right:200px;
+
+}
+.snow-flake.eighteen{
+    bottom:250px;
+    left:300px;
+
+}
+.snow-flake.nineteen{
+    bottom:3000px;
+    left:350px;
+
+}.snow-flake.twenty{
+    bottom:400px;
+    left:100px;
+
+}
+.snow-flake.twentyone{
+    bottom:300px;
+    left:135px;
+
+}
+
+
+
